@@ -1,5 +1,5 @@
 /* CSS Document */
-body{ background-image:url(../images/81.jpg)}
+body{ background-image:url(81.jpg)}
 .bgc{
 margin-top:16px;
 background:#fff;
@@ -13,10 +13,10 @@ height:auto!important;
 max-width:240px;
 height:auto;
 background:#333333;
-
-}
+border-radius:10px;}
 .img{ 
-border-right:2px solid #CCCCCC}
+border-right:2px solid #CCCCCC;
+}
 .span1{
 margin:20px auto;
 color:red}
@@ -32,3 +32,6 @@ margin-top:100px;
 }
 hr{ 
 border:1px solid}
+.tit:hover{
+
+color:red}
